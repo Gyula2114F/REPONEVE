@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 100px;
+    background-color:blueviolet;
+}
+
+img {
+    width:500px;
+    height:300px;
+    float: left;
+}
